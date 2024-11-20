@@ -8,9 +8,6 @@ Welcome to the **AI Assignments Repository**, where I showcase solutions to thre
 1. [Search Algorithms](#1-search-algorithms)
 2. [Hidden Markov Models (HMMs)](#2-hidden-markov-models-hmms)
 3. [Reinforcement Learning (RL)](#3-reinforcement-learning-rl)
-4. [Requirements](#requirements)
-5. [How to Run](#how-to-run)
-6. [License](#license)
 
 ---
 
